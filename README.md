@@ -61,9 +61,6 @@ UCI Air Quality Dataset containing hourly averaged responses from an array of ga
 ## Contributing
 Feel free to submit issues and enhancement requests.
 
-## License
-[MIT License](LICENSE)
-
 ## Contact
 Venkata Akhil Mettu
 
